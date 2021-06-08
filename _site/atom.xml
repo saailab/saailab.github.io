@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>SAI LAB</title>
+ <link href="http://drummondlab.org/" rel="self"/>
+ <link href="http://drummondlab.org"/>
+ <updated>2021-06-09T03:51:58+05:30</updated>
+ <id>http://drummondlab.org</id>
+ <author>
+   <name>Krishna Yadav</name>
+   <email>krishna.nitkkr1@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hiring for Summer Research Interns</title>
+   <link href="http://drummondlab.org/news/summer-internship"/>
+   <updated>2021-06-05T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/news/summer-internship</id>
+   <content type="html">&lt;p&gt;We are looking for highly motivated and sincere individuals who are looking for research opportunities in AI. The internship will take place between June 15 to July 25, 2021. Please follow the link for the application process. &lt;a href=&quot;https://docs.google.com/forms/d/1OcsqM73wHn9e21CKFKXk1BJaefmHIXGwN_JPQdAQP6s/edit&quot;&gt;Application Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Summer Research Intern Projects&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/12otB2eoGBwa3737g08RRdUB5m4mKVsK_/view?usp=sharing&quot;&gt;1. Federated Learning for Intelligent Transportation System&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;2. Federated Learning for Health Care&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A novel approach for phishing URLs detection using lexical based machine learning in a real-time environment</title>
+   <link href="http://drummondlab.org/papers/paper/intracellular-acidification-hsf1"/>
+   <updated>2021-05-03T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/papers/paper/intracellular-acidification-hsf1</id>
+   <content type="html">
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;In recent times, we can see a massive increase in the number of devices that are being connected to the internet. These devices include but are not limited to smartphones, IoT, and cloud networks. In comparison to other possible cyber-attacks, these days, hackers are targeting these devices with phishing attacks since it exploits human vulnerabilities rather than system vulnerabilities. In a phishing attack, an online user is deceived by a seemingly trusted entity to give their personal data, i.e., login credentials or credit card details. When this private information is leaked to the hackers, this information becomes the source of other sophisticated attacks. In recent times many researchers have proposed the machine learning-based approach to solve phishing attacks; however, they have used a large number of features to develop reliable phishing detection techniques. A large number of features requires large processing powers to detect phishing, which makes it very much unsuitable for resource constrained devices. To address this issue, we have developed a phishing detection approach that only needs nine lexical features for effectively detecting phishing attacks. We used ISCXURL-2016 dataset for our experimental purpose, where 11964 instances of legitimate and phishing URLs are used. We have tested our approach against different machine learning classifiers and have obtained the highest accuracy of 99.57% with the Random forest algorithm.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI in Cybersecurity</title>
+   <link href="http://drummondlab.org/projects/project/AI-in-Security"/>
+   <updated>2021-02-03T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/projects/project/AI-in-Security</id>
+   <content type="html">
+&lt;p&gt;These days new intrusions are being evolved in a rapid manner. This research group uses various machine learning, deep learning, and federated learning techniques to detect these intrusions as early as possible.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Clustering based Rewarding Algorithm to Detect Adversaries in Federated Machine Learning based IoT Environment 2021</title>
+   <link href="http://drummondlab.org/papers/paper/ICCE-2021"/>
+   <updated>2021-01-13T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/papers/paper/ICCE-2021</id>
+   <content type="html">
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;In recent times, federated machine learning has been very useful in building the intelligent intrusion detection system for IoT devices. As IoT devices are equipped with a security architecture vulnerable to various attacks, these security loopholes may bring a risk during federated training of decentralized IoT devices. Adversaries can take control over these IoT devices and inject false gradients to degrade the global model performance. In this paper, we have proposed an approach that detects the adversaries with the help of a clustering algorithm. After clustering, it further rewards the clients for detecting honest and malicious clients. Our proposed gradient filtration approach does not require any processing power from the client-side and does not use excessive bandwidth, making it very much feasible for IoT devices. Further, our approach has been very successful in boosting the global model accuracy, up to 99% even in the presence of 40% adversaries.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Differential Privacy Approach to Solve Gradient Leakage Attack in a Federated Machine Learning Environment</title>
+   <link href="http://drummondlab.org/papers/paper/CSoNet"/>
+   <updated>2020-12-12T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/papers/paper/CSoNet</id>
+   <content type="html">
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The growth of federated machine learning in recent times has dramatically leveraged the traditional machine learning technique for intrusion detection. Keeping the dataset for training at decentralized nodes, federated machine learning have kept the people’s data private; however, federated machine learning mechanism still suffers from gradient leakage attacks. Adversaries are now taking advantage of those gradients and can reconstruct the people’s private data with greater accuracy. Adversaries are using these private network data later on to launch more devastating attacks against users. At this time, it becomes essential to develop a solution that prevents these attacks. This paper has introduced differential privacy, which uses Gaussian and Laplace mechanisms to secure updated gradients during the communication. Our result shows that clients can achieve a significant level of accuracy with differentially private gradients.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Application based Federated Learning</title>
+   <link href="http://drummondlab.org/projects/project/APPLication-FL"/>
+   <updated>2020-08-12T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/projects/project/APPLication-FL</id>
+   <content type="html">
+&lt;p&gt;This research group understands the privacy of data that may arise when employing traditional machine learning techniques in different fields such as Healthcare and Transportation systems. To tackle the problem, this research group explores the possibilities where federated machine learning can be used.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Security and Privacy in Federated Machine Learning</title>
+   <link href="http://drummondlab.org/projects/project/Security-in-FL"/>
+   <updated>2020-06-08T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/projects/project/Security-in-FL</id>
+   <content type="html">
+&lt;p&gt;This research group focuses on Data poisoning attacks, Inference attacks, Differential Privacy, and other security issues that may arise in Federated ML.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Security and Artificial Intelligence Lab</title>
+   <link href="http://drummondlab.org/misc/home/home"/>
+   <updated>2015-04-22T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/misc/home/home</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+Security and Artificial Intelligence Lab works on solving the security issues that may arise in building Machine Learning based systems. Our lab has different independent research groups that work on &lt;strong&gt;Data Poisoning and Reconstruction Attacks, Differential Privacy, Secure Multiparty Computation, and Inference Attacks&lt;/strong&gt;. We build algorithms to carry out these attacks as well as defensive architecture to counter the attacks.&lt;/p&gt;
+
+&lt;p&gt;In recent times, we have also been carrying out research to explore the possible applications of &lt;strong&gt;Federated Machine Learning in Healthcare, Cybersecurity, and Intelligent Transportation System&lt;/strong&gt;. We empower the diversity and collaborations inside our lab. Our research work is collaborated with eminent researchers from Monash University (Australia), Deakin University (Australia), University of Macedonia(Greece), and University of Salerno(Italy).&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Krishna Yadav</title>
+   <link href="http://drummondlab.org/team/krishna-yadav"/>
+   <updated>2011-10-01T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/team/krishna-yadav</id>
+   <content type="html">&lt;p&gt;Krishna Yadav is a research assistant at Security and Artificial Intelligence Lab. He have been carrying out research widely in the field of federated learning since 2020. Prior to that, his research was focused on centralized machine learning, phishing,and DDOS attack He have nearly two years of research experience and have published research papers in top journals like Computer Communication and conferences like IEEE ICCE.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Konstantinos Psannis</title>
+   <link href="http://drummondlab.org/team/brij-gupta"/>
+   <updated>2011-10-01T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/team/brij-gupta</id>
+   <content type="html">&lt;p&gt;Konstantinos E. Psannis (Member, IEEE) was born in Thessaloniki, Greece. He received the degree in physics from the Faculty of Sciences, Aristotle University of Thessaloniki, Greece, and the Ph.D. degree from the Department of Electronic and Computer Engineering, School of Engineering and Design, Brunel University, London, U.K. He is currently an Associate Professor of communications systems and networking with the Department of Applied Informatics, School of Information Sciences, University of Macedonia, Greece, the Director of the Mobility2net Research and Development and Consulting JP-EU Laboratory, and a member of the EU-JAPAN Centre for Industrial Cooperation. He has more than 60 publications in international scientific journals and more than 70 publications in international conferences. His published works has more than 3000 citations (H-index 25, i10-index 52). He supervises two postdoctoral students and eight Ph.D. students. His research interests include digital media communications, media coding/synchronization, and transport over a variety of networks, from the theoretical as well as the practical points of view. His recent work has been directed toward the demanding digital signals and systems problems arising from the various areas of ubiquitous big data/media and communications. This work was supported by research grants and contracts from various government organizations. He has participated in joint research works funded by Grant-in-Aid for Scientific Research, the Japan Society for the Promotion of Science (JSPS), the KAKENHI Grant, The Telecommunications Advancement Foundation, the International Information Science Foundation, as a Principal Investigator and a Visiting Consultant Professor with the Nagoya Institute of Technology, Japan. From 2001 to 2002, he was awarded the British Chevening Scholarship. The Chevening Scholarships are the U.K. Government’s Global Scholarship Programme, funded by the Foreign and Commonwealth Office (FCO) and partner organizations. The programme makes awards to outstanding scholars with leadership potential from around the world to study at universities in U.K. He was invited to speak on the EU-Japan Co-ordinated Call Preparatory Meeting, Green and Content Centric Networking (CCN), organized by European Commission (EC) and the National Institute of Information and Communications Technology (NICT)/Ministry of Internal Affairs and Communications (MIC), Japan (in the context of the upcoming ICT Work Programme 2013), and International Telecommunication Union (ITU-founded in 1865), SG13 meeting on DAN/CCN, Berlin, in July 2012, amongst other invited speakers. He received the Joint-Research Award from the Institute of Electronics, Information and Communication Engineers, Japan, the Technical Committee on Communication Quality, in July 2009, and the Joint-Research Encouraging Prize from the IEICE Technical Committee on Communication Systems (CS), in July 2011. He has been included in the list of Top 2% Scientists in the world (prepared by Stanford University, USA, in October 2020). He is also the TPC Co-Chair of the International Conference on Computer Communications and the Internet (ICCCI 2020), the Nagoya Institute of Technology, Japan, ICCCI June 2020, at Nagoya, Japan, and will be held on June 2021, at Nagoya, and the Conference Chair at the World Symposium on Communications Engineering held at the University of Macedonia, in October 2020, and to be held at the University of Macedonia, in August 2019 and 2021, Thessaloniki (WSCE 2021). He has been serving as an Associate Editor for IEEE Access and IEEE Communications Letters. He is a Lead Associate Editor of the Special Issue on Roadmap to 5G: Rising to the Challenge of IEEE Access in 2019. He is a Guest Editor of the Special Issue on Compressive Sensing-Based IoT Applications of Sensors in 2020 and the Special Issue on Advances in Baseband Signal Processing, Circuit Designs, and Communications of Information in 2020. He is a Lead Guest Editor of the Special Issue on Artificial Intelligence for Cloud Based Big Data Analytics of Big Data Research in 2020.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Arcangelo Castiglione</title>
+   <link href="http://drummondlab.org/team/arcangelo"/>
+   <updated>2011-10-01T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/team/arcangelo</id>
+   <content type="html">&lt;p&gt;Arcangelo Castiglione received the Ph.D. degree in Computer Science from the University of Salerno. He got the Italian National Scientific Qualification as Associate Professor: in Computer Engineering, in July 2018, and in Computer Science, in August 2018. Since December 2018 he is an Assistant Professor at the Department of Computer Science, University of Salerno (Italy). Until December 2018 he was a Postdoctoral Researcher with the Department of Computer Science and an Adjunct Professor with the Department of Industrial Engineering, University of Salerno. He is an Associate Editor for the IET Cyber-Physical Systems: Theory &amp;amp; Applications (IET), Journal of High Speed Networks (IOS Press) and International Journal of Embedded Systems (Inderscience Publishers), as well as he has been Guest Editor for several Special Issues and Volume Editor for Lecture Notes in Computer Science (Springer). He serves as secretary the IEEE TCSC and the IEEE SMC Technical Committee of Cybermatics.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dr. Brij Gupta</title>
+   <link href="http://drummondlab.org/team/Konstantions"/>
+   <updated>2011-09-01T00:00:00+05:30</updated>
+   <id>http://drummondlab.org/team/Konstantions</id>
+   <content type="html">&lt;p&gt;B. B. Gupta received the Ph.D. degree in information and cyber security from IIT Roorkee, India. He has published more than 150 research articles (including four books and 20 book chapters) in international journals and conferences of high repute, including the IEEE, Elsevier, ACM, Springer, and Inderscience. He is currently an Assistant Professor with the Department of Computer Engineering, National Institute of Technology, Kurukshetra (NIT Kurukshetra), India. His research interests include information security, cyber security, mobile/smartphone, cloud computing, web security, intrusion detection, computer networks, and phishing. He is also a member of ACM, SIGCOMM, SDIWC, the Internet Society, the Institute of Nanotechnology and a Life Member of the International Association of Engineers (IAENG) and the International Association of Computer Science and Information Technology (IACSIT). His biography was selected and published in Who’s Who in the World (Marquis, 30th Edition, 2012). He has been selected to receive the 2017 Albert Nelson Marquis Lifetime Achievement Award and the 2017 Bharat Vikas Award from the Marquis Who’s Who in the World, USA and ISR, and India, respectively. He also received the Sir Visvesvaraya Young Faculty Research Fellowship Award, in 2017, from the Ministry of Electronics and Information Technology, Government of India. He also received the 2018 Best Faculty Award for Research Activities, the 2018 Best Faculty Award for Project and Laboratory Development from NIT Kurukshetra, and the 2018 Rula International Award for Best Researcher. He has been serving as an Associate Editor for the IEEE Transactions on Industrial Informatics and IEEE Access and an Executive Editor for IJITCA (Inderscience). He is also leading the International Journal of Cloud Applications and Computing (IJCAC) (IGI Global, USA) as the Editor-in-Chief. He has been serving as a Reviewer for the journals of the IEEE, Springer, Wiley, Taylor &amp;amp; Francis, and so on.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
