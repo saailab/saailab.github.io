@@ -8,7 +8,9 @@ category: news
 tags: 
 ---
 
-We are looking for highly motivated and sincere individuals who are looking for research opportunities in AI. The internship will take place between June 15 to July 25, 2021. Please follow the link for the application process. [Application Link](https://docs.google.com/forms/d/1OcsqM73wHn9e21CKFKXk1BJaefmHIXGwN_JPQdAQP6s/edit)
+We are looking for highly motivated and sincere individuals who are looking for research opportunities in AI. The internship will take place between June 15 to July 25, 2021. Please follow the link for the application process. [Application Link](https://docs.google.com/forms/d/1OcsqM73wHn9e21CKFKXk1BJaefmHIXGwN_JPQdAQP6s/edit). The first round of the selection process will be resume shortlisting, which will be followed by an interview. In addition to the first interview, some applicants may be required to go for a second interview. All the applicants will be notified by email regarding their acceptance or rejection by June 14.
+
+
 
 Summer Research Intern Projects
 

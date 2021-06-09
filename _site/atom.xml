@@ -4,7 +4,7 @@
  <title>SAI LAB</title>
  <link href="http://drummondlab.org/" rel="self"/>
  <link href="http://drummondlab.org"/>
- <updated>2021-06-09T03:51:58+05:30</updated>
+ <updated>2021-06-09T20:32:23+05:30</updated>
  <id>http://drummondlab.org</id>
  <author>
    <name>Krishna Yadav</name>
@@ -17,13 +17,13 @@
    <link href="http://drummondlab.org/news/summer-internship"/>
    <updated>2021-06-05T00:00:00+05:30</updated>
    <id>http://drummondlab.org/news/summer-internship</id>
-   <content type="html">&lt;p&gt;We are looking for highly motivated and sincere individuals who are looking for research opportunities in AI. The internship will take place between June 15 to July 25, 2021. Please follow the link for the application process. &lt;a href=&quot;https://docs.google.com/forms/d/1OcsqM73wHn9e21CKFKXk1BJaefmHIXGwN_JPQdAQP6s/edit&quot;&gt;Application Link&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;We are looking for highly motivated and sincere individuals who are looking for research opportunities in AI. The internship will take place between June 15 to July 25, 2021. Please follow the link for the application process. &lt;a href=&quot;https://docs.google.com/forms/d/1OcsqM73wHn9e21CKFKXk1BJaefmHIXGwN_JPQdAQP6s/edit&quot;&gt;Application Link&lt;/a&gt;. The first round of the selection process will be resume shortlisting, which will be followed by an interview. In addition to the first interview, some applicants may be required to go for a second interview. All the applicants will be notified by email regarding their acceptance or rejection by June 14.&lt;/p&gt;
 
 &lt;p&gt;Summer Research Intern Projects&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/12otB2eoGBwa3737g08RRdUB5m4mKVsK_/view?usp=sharing&quot;&gt;1. Federated Learning for Intelligent Transportation System&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/1eBnEjE51ECdgJn7H2WLDOclISuAgw1qS/view?usp=sharing&quot;&gt;1. Federated Learning for Intelligent Transportation System&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;2. Federated Learning for Health Care&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://drive.google.com/file/d/1hf6f05vN4X0odQdX3oyZuniDkZsZn-is/view?usp=sharing&quot;&gt;2. Federated Learning for Health Care&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -115,7 +115,7 @@ Security and Artificial Intelligence Lab works on solving the security issues th
    <link href="http://drummondlab.org/team/krishna-yadav"/>
    <updated>2011-10-01T00:00:00+05:30</updated>
    <id>http://drummondlab.org/team/krishna-yadav</id>
-   <content type="html">&lt;p&gt;Krishna Yadav is a research assistant at Security and Artificial Intelligence Lab. He have been carrying out research widely in the field of federated learning since 2020. Prior to that, his research was focused on centralized machine learning, phishing,and DDOS attack He have nearly two years of research experience and have published research papers in top journals like Computer Communication and conferences like IEEE ICCE.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Krishna Yadav is a research assistant at Security and Artificial Intelligence Lab. He has been carrying out research widely in the field of federated learning since 2020. Before that, his research was focused on centralized machine learning, phishing, and DDOS attack. He has nearly two years of research experience and has published research papers in top journals like Computer Communication and conferences like IEEE ICCE. He has also served as a reviewer of different journals.&lt;/p&gt;
 </content>
  </entry>
  
